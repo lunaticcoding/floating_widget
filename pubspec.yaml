@@ -1,7 +1,7 @@
 name: floating_widget
 description: A new flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/lunaticcoding/floating_widget
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
